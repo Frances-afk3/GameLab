@@ -1,1 +1,0 @@
-# Script giocatore con movimento e loop
