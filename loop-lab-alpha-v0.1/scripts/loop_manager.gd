@@ -1,0 +1,1 @@
+# Gestione del loop temporale

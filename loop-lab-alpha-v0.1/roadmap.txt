@@ -1,0 +1,3 @@
+- Implementati 10 piani
+- Piani dinamici: 3,5,7,9
+- Taccuino persistente/non persistente
